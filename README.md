@@ -19,6 +19,9 @@ This project is currently under development and is part of my backend learning j
 - CORS enabled for frontend integration
 - Ready for future integration with real travel APIs
 
+- ### 🔍 Search Interface
+![TripFinder Search](./image/front.png)
+
 ---
 
 ## 🛠️ Tech Stack
